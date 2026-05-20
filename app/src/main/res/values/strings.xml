@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BearQuest</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="app_short_description">Tap the bears in the right order and complete quests!</string>
+    
+    <string name="main_title">Welcome to BearQuest</string>
+    <string name="btn_start_game">Start Game</string>
+    <string name="btn_about">About</string>
+    <string name="btn_privacy">Privacy Policy</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_back">Back</string>
+    
+    <string name="game_score">Score: 0/10</string>
+    <string name="game_target">Tap Bear #1</string>
+    
+    <string name="about_description">BearQuest is a casual puzzle game where you must tap the highlighted bears in sequence to complete quests. Each level challenges you to remember the order and tap quickly. Perfect for relaxing gameplay at your own pace.\n\nTheme: Bears\nVersion: 1.0\nCredits: Game design and development by AppTools.\n\nGameplay: Start by tapping the bear that is highlighted on screen. Each successful tap increases your score. Reach 10 points to win the level. Reset anytime to start over. Enjoy the adventure!</string>
+    
+    <string name="privacy_policy">PRIVACY POLICY\n\nBearQuest is an offline casual game. We do not collect, store, or transmit any personal data unless explicitly stated.\n\nData Collection:\n- BearQuest does not require internet access.\n- No user accounts or logins are needed.\n- No personal information (name, email, location, etc.) is collected.\n- No tracking or analytics are performed.\n- Game progress is stored locally on your device only.\n\nPermissions:\n- BearQuest requests only the minimum permissions needed to display graphics and sounds.\n- No permissions for contacts, location, calendar, or camera are required.\n\nSecurity:\n- Your data is never shared with third parties.\n- All gameplay data remains on your device.\n\nChanges:\n- This privacy policy may be updated. Check back periodically for changes.\n\nContact:\n- For privacy concerns, contact the developer through the app store.\n\nLast Updated: 2026</string>
+</resources>
